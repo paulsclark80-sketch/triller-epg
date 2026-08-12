@@ -62,8 +62,8 @@
  </channel>
 
  <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event0">
-   <title lang="en">Triller TV Event 1</title>
-   <desc lang="en">Triller TV Event 1</desc>
+   <title lang="en">Tennis TV Classis</title>
+   <desc lang="en">Tennis TV Classics</desc>
  </programme>
 
  <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event2">
