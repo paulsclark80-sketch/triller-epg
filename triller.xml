@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Triller EPG">
+
+ <channel id="triller.event1">
+   <display-name>Triller TV Event 1</display-name>
+ </channel>
+
+ <channel id="triller.event2">
+   <display-name>Triller TV Event 2</display-name>
+ </channel>
+
+ <channel id="triller.event3">
+   <display-name>Triller TV Event 3</display-name>
+ </channel>
+
+ <channel id="triller.event4">
+   <display-name>Triller TV Event 4</display-name>
+ </channel>
+
+ <channel id="triller.event5">
+   <display-name>Triller TV Event 5</display-name>
+ </channel>
+
+ <channel id="triller.event6">
+   <display-name>Triller TV Event 6</display-name>
+ </channel>
+
+ <channel id="triller.event7">
+   <display-name>Triller TV Event 7</display-name>
+ </channel>
+
+ <channel id="triller.event8">
+   <display-name>Triller TV Event 8</display-name>
+ </channel>
+
+ <channel id="triller.event9">
+   <display-name>Triller TV Event 9</display-name>
+ </channel>
+
+ <channel id="triller.event10">
+   <display-name>Triller TV Event 10</display-name>
+ </channel>
+
+ <channel id="triller.event11">
+   <display-name>Triller TV Event 11</display-name>
+ </channel>
+
+ <channel id="triller.event12">
+   <display-name>Triller TV Event 12</display-name>
+ </channel>
+
+ <channel id="triller.event13">
+   <display-name>Triller TV Event 13</display-name>
+ </channel>
+
+ <channel id="triller.event14">
+   <display-name>Triller TV Event 14</display-name>
+ </channel>
+
+ <channel id="triller.event15">
+   <display-name>Triller TV Event 15</display-name>
+ </channel>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event1">
+   <title lang="en">Triller TV Event 1</title>
+   <desc lang="en">Triller TV Event 1</desc>
+ </programme>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event2">
+   <title lang="en">Triller TV Event 2</title>
+   <desc lang="en">Triller TV Event 2</desc>
+ </programme>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event3">
+   <title lang="en">Triller TV Event 3</title>
+   <desc lang="en">Triller TV Event 3</desc>
+ </programme>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event4">
+   <title lang="en">Triller TV Event 4</title>
+   <desc lang="en">Triller TV Event 4</desc>
+ </programme>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event5">
+   <title lang="en">Triller TV Event 5</title>
+   <desc lang="en">Triller TV Event 5</desc>
+ </programme>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event6">
+   <title lang="en">Triller TV Event 6</title>
+   <desc lang="en">Triller TV Event 6</desc>
+ </programme>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event7">
+   <title lang="en">Triller TV Event 7</title>
+   <desc lang="en">Triller TV Event 7</desc>
+ </programme>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event8">
+   <title lang="en">Triller TV Event 8</title>
+   <desc lang="en">Triller TV Event 8</desc>
+ </programme>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event9">
+   <title lang="en">Triller TV Event 9</title>
+   <desc lang="en">Triller TV Event 9</desc>
+ </programme>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event10">
+   <title lang="en">Triller TV Event 10</title>
+   <desc lang="en">Triller TV Event 10</desc>
+ </programme>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event11">
+   <title lang="en">Triller TV Event 11</title>
+   <desc lang="en">Triller TV Event 11</desc>
+ </programme>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event12">
+   <title lang="en">Triller TV Event 12</title>
+   <desc lang="en">Triller TV Event 12</desc>
+ </programme>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event13">
+   <title lang="en">Triller TV Event 13</title>
+   <desc lang="en">Triller TV Event 13</desc>
+ </programme>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event14">
+   <title lang="en">Triller TV Event 14</title>
+   <desc lang="en">Triller TV Event 14</desc>
+ </programme>
+
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event15">
+   <title lang="en">Triller TV Event 15</title>
+   <desc lang="en">Triller TV Event 15</desc>
+ </programme>
+
+</tv>
