@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Triller EPG">
 
+ <channel id="triller.event0">
+ <display-name>Triller TV Event 0</display-name>
+</channel>
+ 
  <channel id="triller.event1">
    <display-name>Triller TV Event 1</display-name>
  </channel>
@@ -61,6 +65,11 @@
    <display-name>Triller TV Event 15</display-name>
  </channel>
 
+ <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event0">
+ <title lang="en">Triller TV Event 0</title>
+ <desc lang="en">Triller TV Event 0</desc>
+</programme>
+ 
  <programme start="20260812000000 +0100" stop="20260812235959 +0100" channel="triller.event1">
    <title lang="en">Triller TV Event 1</title>
    <desc lang="en">Triller TV Event 1</desc>
